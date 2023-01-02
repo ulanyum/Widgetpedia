@@ -1,0 +1,2 @@
+# Widgetpedia
+Kullandığım Widgetlar
